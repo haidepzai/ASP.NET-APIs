@@ -1,0 +1,20 @@
+D:\Users\Hai\source\repos\API Tutorial\API Tutorial\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Users\Hai\source\repos\API Tutorial\API Tutorial\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Users\Hai\source\repos\API Tutorial\API Tutorial\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Users\Hai\source\repos\API Tutorial\API Tutorial\bin\Debug\netcoreapp3.1\API Tutorial.exe
+D:\Users\Hai\source\repos\API Tutorial\API Tutorial\bin\Debug\netcoreapp3.1\API Tutorial.deps.json
+D:\Users\Hai\source\repos\API Tutorial\API Tutorial\bin\Debug\netcoreapp3.1\API Tutorial.runtimeconfig.json
+D:\Users\Hai\source\repos\API Tutorial\API Tutorial\bin\Debug\netcoreapp3.1\API Tutorial.runtimeconfig.dev.json
+D:\Users\Hai\source\repos\API Tutorial\API Tutorial\bin\Debug\netcoreapp3.1\API Tutorial.dll
+D:\Users\Hai\source\repos\API Tutorial\API Tutorial\bin\Debug\netcoreapp3.1\API Tutorial.pdb
+D:\Users\Hai\source\repos\API Tutorial\API Tutorial\obj\Debug\netcoreapp3.1\API Tutorial.csprojAssemblyReference.cache
+D:\Users\Hai\source\repos\API Tutorial\API Tutorial\obj\Debug\netcoreapp3.1\API Tutorial.AssemblyInfoInputs.cache
+D:\Users\Hai\source\repos\API Tutorial\API Tutorial\obj\Debug\netcoreapp3.1\API Tutorial.AssemblyInfo.cs
+D:\Users\Hai\source\repos\API Tutorial\API Tutorial\obj\Debug\netcoreapp3.1\API Tutorial.csproj.CoreCompileInputs.cache
+D:\Users\Hai\source\repos\API Tutorial\API Tutorial\obj\Debug\netcoreapp3.1\API Tutorial.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\Hai\source\repos\API Tutorial\API Tutorial\obj\Debug\netcoreapp3.1\API Tutorial.RazorTargetAssemblyInfo.cache
+D:\Users\Hai\source\repos\API Tutorial\API Tutorial\obj\Debug\netcoreapp3.1\staticwebassets\API Tutorial.StaticWebAssets.Manifest.cache
+D:\Users\Hai\source\repos\API Tutorial\API Tutorial\obj\Debug\netcoreapp3.1\staticwebassets\API Tutorial.StaticWebAssets.xml
+D:\Users\Hai\source\repos\API Tutorial\API Tutorial\obj\Debug\netcoreapp3.1\API Tutorial.dll
+D:\Users\Hai\source\repos\API Tutorial\API Tutorial\obj\Debug\netcoreapp3.1\API Tutorial.pdb
+D:\Users\Hai\source\repos\API Tutorial\API Tutorial\obj\Debug\netcoreapp3.1\API Tutorial.genruntimeconfig.cache
