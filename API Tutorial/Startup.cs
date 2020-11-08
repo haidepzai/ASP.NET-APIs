@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using API_Tutorial.Services.CharacterService;
+using AutoMapper;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -27,6 +28,7 @@ namespace API_Tutorial
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
+            services.AddAutoMapper(typeof(Startup));
             services.AddScoped<ICharacterService, CharacterService>();
             //Damit Web-API weißt, dass er CharacterService Klasse benutzen soll, wenn er ICharacterService injected
             //Da Interface nur die Methoden zur Verfügung stellt und die eigentliche Implementierung im CharacterService erfolgt.
