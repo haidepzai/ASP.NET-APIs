@@ -7,6 +7,7 @@ namespace API_Tutorial.Models
 {
     public class Character
     {
+        //prop double tab
         public int Id { get; set; }
         public string Name { get; set; } = "Frodo";
         public int HitPoints { get; set; } = 100;
